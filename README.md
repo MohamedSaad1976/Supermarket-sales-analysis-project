@@ -1,2 +1,1 @@
-Supermarket sales analysis
  The Supermarket Sales Analysis Project analyzes supermarket sales data to derive insights about customer behavior, product performance, and overall sales trends. The analysis includes total sales, customer demographics, sales per category, and other performance indicators. It is designed to help understand how various factors contribute to the store's performance and provide actionable insights for decision-making and strategic planning. This project emphasizes the use of data analytics to optimize supermarket operations. 
